@@ -1,0 +1,13 @@
+{
+  "name": "server-trello",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "trungbq10",
+  "main": "src/server.js",
+  "author": "trungbq",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
